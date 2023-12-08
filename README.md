@@ -1,3 +1,4 @@
+![logo](https://github.com/Mojammel-Molla/Mojammel-Molla/blob/main/Sample2copy%20banner.png)
 <h1 align="center">Hi 👋, I'm Mojammel_Molla</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img align="right" alt="coding" width="400" src="![image](https://github.com/Mojammel-Molla/Mojammel-Molla/assets/138325067/75b5ec73-9480-4f1f-a09d-9d5beeb7f478)
