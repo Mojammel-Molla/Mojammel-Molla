@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm Mojammel_Molla</h1>
 <h3 width="200" align="center">A passionate frontend developer from Bangladesh.Passionate and detail-oriented Front-End Web Developer with a focus on creating visually appealing and intuitive user interfaces. I specialize in leveraging the power of React.js and modern front-end technologies to bring designs to life and enhance the overall user experience.</h3>
 
+
+<h2 align="left">My vision:</h2>
+
+<h3 width="200" align="center">In the next 2-3 years, I envision evolving into a proficient full-stack developer by mastering backend technologies, expanding my knowledge in database management, and seamlessly integrating robust server-side solutions with my current React expertise. I aspire to create end-to-end web applications, delivering comprehensive and innovative solutions to meet the dynamic needs of the tech industry.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mojammel-molla&label=Profile%20views&color=0e75b6&style=flat" alt="mojammel-molla" /> </p>
 
 - 🌱 I’m currently learning **Mongoose, Next.js**
