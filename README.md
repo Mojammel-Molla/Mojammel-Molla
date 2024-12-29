@@ -1,4 +1,4 @@
-![logo](https://github.com/Mojammel-Molla/Mojammel-Molla/blob/main/Sample2copy%20banner.png)
+![Banner](https://github.com/Mojammel-Molla/Mojammel-Molla/blob/main/images/Sample2copy%20banner.png)
 
 <h2 align="left">About me:</h2>
 <h1 align="center">Hi 👋, I'm Mojammel_Molla</h1>
